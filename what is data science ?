@@ -1,0 +1,15 @@
+@\\Data Science => making data work for you 
+collect data ----->to ge ---> some meaningful conclusion
+Data > like,comments,pull req , upi ,Buy , tweet etc etc
+
+@\\Data can be used for ?
+current aws bill or employee cost
+odd events: fraud transection
+cause of event(why you purchase or listen song)
+Pridict future(population ,sales,volume etc)
+
+@\\STEPS OF DATA SCIENCE 
+  collect and store data
+Data prepration(cleaning missing data formats)
+visulitation and exploration(dashboard and comparision)
+predict experiments(AB testing forcasting)
